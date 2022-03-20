@@ -55,8 +55,8 @@ const ExecutionMapPage = () => {
 								animate={{ opacity: 1 }}
 								transition={{ duration: 0.5, delay: 8.5 }}
 							>
-								The most recent state to abolish the death penalty, Illinois, replaced it with life
-								without parole in 2011.
+								The most recent state to abolish the death penalty, Virginia, replaced it with life
+								without parole in 2021.
 							</motion.div>
 						</motion.div>
 					</>
